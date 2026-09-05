@@ -1,210 +1,258 @@
-<!-- HEADER -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Ishita%20Singh%20Oberoi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-</p>
-
-<!-- ANIMATED INTRO -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=667EEA&center=true&vCenter=true&width=700&lines=Hello%2C+this+is+Ishita+Singh+Oberoi;Aspiring+Software+Developer;Software+Engineering+%7C+AI%2FML;Building+practical+software+and+AI+systems" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:9B7EBD&height=210&section=header&text=Ishita%20Singh%20Oberoi&fontSize=43&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/IshitaOberoi">
-    <img src="https://img.shields.io/badge/GitHub-IshitaOberoi-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/ishita-oberoi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ishita%20Oberoi-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:ishitaoberoi2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1200&color=667EEA&center=true&vCenter=true&width=700&lines=Hello%2C+this+is+Ishita+Singh+Oberoi;Aspiring+Software+Developer;Software+Engineering+%7C+AI%2FML"
+  />
 </p>
 
----
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="YOUR_RESUME_URL">Resume</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
+
+<br>
+
+<!-- ================= ABOUT ================= -->
 
 ## About Me
 
-I am a Computer Science undergraduate at **Thapar Institute of Engineering and Technology**, focused on software engineering, backend development, and applied artificial intelligence.
+Computer Science student at **Thapar Institute of Engineering & Technology** focused on **software engineering and AI/ML**.
 
-I enjoy building systems that combine **strong software fundamentals with practical AI/ML applications**, ranging from backend APIs and full-stack platforms to computer vision and LLM-powered applications.
+I enjoy building backend systems, full-stack applications, and practical AI-powered solutions.
 
-Currently, I am strengthening my skills in **data structures and algorithms, Java/Spring Boot, machine learning, and AI engineering**.
+<br>
 
----
+<!-- ================= TECH STACK ================= -->
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,react,vite,nodejs,express,spring,mongodb,mysql,git,github,vscode&perline=9" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=ultralytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-6C5CE7?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" />
-</p>
-
----
-
-## What I Build
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Software Engineering
+### Languages
 
-Java and Spring-based backend systems, REST APIs, database-driven applications, and full-stack web platforms.
-
-**Focus:**
-Java · Spring Boot · REST APIs · SQL · React
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js&perline=5" />
+</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### Artificial Intelligence
+### Frontend
 
-Applied ML, deep learning, computer vision, and LLM-based applications designed around practical use cases.
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,vite&perline=4" />
+</p>
 
-**Focus:**
-Python · PyTorch · YOLOv8 · LLMs · RAG
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express&perline=3" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/REST%20APIs-667EEA?style=for-the-badge" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=2" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=ultralytics&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-667EEA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-8E6BBE?style=for-the-badge" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## Featured Projects
+<!-- ================= PROJECTS ================= -->
 
-### Fingerprint Image Classification
+## Selected Projects
 
-**Python · PyTorch · ResNet18 · MobileNetV2**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Built an end-to-end deep learning pipeline for fingerprint image classification using transfer learning on 600+ images.
+### Fingerprint Classification
 
-**94% test accuracy** with comparative analysis of ResNet18 and MobileNetV2 performance.
+Deep learning image classification using **ResNet18 and MobileNetV2** with transfer learning.
 
-[View Repository](https://github.com/IshitaOberoi/fingerprint_classification)
+**94% test accuracy**
 
----
+`Python` `PyTorch` `Deep Learning`
+
+<br>
+
+<a href="YOUR_FINGERPRINT_REPO">
+View Project →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Clinicly
 
-**MERN Stack · REST APIs · Authentication · AI Chatbot**
+Full-stack healthcare platform with appointment management, authentication, payments, and an AI chatbot.
 
-A full-stack healthcare platform for doctor appointment booking, authentication, payments, and real-time appointment management.
+`React` `Node.js` `MongoDB` `AI`
 
-Includes an AI-powered chatbot for symptom-based doctor recommendations and user assistance.
+<br>
 
-[View Repository](https://github.com/IshitaOberoi/clinicly)
+<a href="YOUR_CLINICLY_REPO">
+View Project →
+</a>
 
----
+</td>
+</tr>
 
-### HireSense AI — Intelligent Recruitment Copilot
+<tr>
+<td width="50%" valign="top">
 
-**React.js · Spring Boot · FastAPI · LLM · RAG · Vector Embeddings**
+### HireSense AI
 
-An AI-powered recruitment platform designed to analyze resumes, perform semantic job matching, identify skill gaps, estimate ATS compatibility, and generate personalized interview preparation.
+AI recruitment platform exploring **LLMs, RAG, semantic matching, skill-gap analysis, and interview preparation**.
 
-**Status:** In Development
+`React` `Spring Boot` `FastAPI` `LLM` `RAG`
 
----
+<br>
 
-## Experience
+<a href="YOUR_HIRESENSE_REPO">
+View Project →
+</a>
 
-### Software Development Engineer Intern — Vimo India
+</td>
 
-**June 2026 – July 2026**
+<td width="50%" valign="top">
 
-Worked on Java/Spring Boot applications for the HIX health insurance platform, working across SQL databases and REST-based backend services.
+### DSA
 
-Investigated and resolved application issues using Git, Bitbucket, Jira, and Cursor, contributing to application reliability and defect reduction.
+Solutions focused on core problem-solving patterns including **arrays, strings, sliding window, binary search, trees, graphs, and DP**.
 
----
+`Java` `DSA` `Problem Solving`
 
-## Leadership
+<br>
 
-### Joint Secretary — ISTE Thapar Chapter
+<a href="YOUR_DSA_REPO">
+View Repository →
+</a>
 
-Led the execution of **4+ flagship technical events**, coordinating teams across technology, design, publicity, and operations while managing budgeting and documentation.
+</td>
+</tr>
+</table>
 
-### Senior Coordinator — Center for Training & Development
+<br>
 
-Coordinated placement interviews and streamlined processes supporting the career readiness of **200+ students**.
+<!-- ================= CURRENT FOCUS ================= -->
 
-### Content & Documentation Head — BIOS Hackathon
+## Currently Exploring
 
-Led content strategy and technical documentation, preparing problem statements, reports, and resources for **100+ participants**.
+<table>
+<tr>
+<td align="center" width="25%">
 
----
+**DSA**
 
-## Certifications
+Problem Solving
 
-* Java Programming and Software Engineering Fundamentals
-* Meta Database Engineer
-* Spring Framework
-* NVIDIA — Fundamentals of Deep Learning
-* Data Structures in C++
-* Introduction to C++
+</td>
 
----
+<td align="center" width="25%">
 
-## Education
+**Backend**
 
-**Thapar Institute of Engineering and Technology**
+Java · Spring Boot
 
-Bachelor of Technology in Computer Science and Engineering
-**CGPA: 8.60 / 10.00**
-Expected May 2027
+</td>
 
-Relevant coursework includes Data Structures, Database Management Systems, Machine Learning, and Deep Learning.
+<td align="center" width="25%">
 
----
+**AI / ML**
 
-## Current Focus
+Deep Learning · CV
 
-```text
-Data Structures & Algorithms
-        +
-Java / Spring Boot
-        +
-Backend Engineering
-        +
-Machine Learning
-        +
-LLMs / RAG
-```
+</td>
 
-I am currently focused on becoming a stronger software engineer while building practical AI/ML systems.
+<td align="center" width="25%">
 
----
+**GenAI**
 
-## GitHub Activity
+LLMs · RAG
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IshitaOberoi&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaOberoi&layout=compact&hide_border=true&theme=transparent" height="165"/>
-</p>
+</td>
+</tr>
+</table>
 
----
+<br>
 
-## Let's Connect
+<!-- ================= FOOTER ================= -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ishita-oberoi/">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:ishitaoberoi2005@gmail.com">Email</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/IshitaOberoi">GitHub</a>
+  <i>Building, learning, and getting better with every project.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:9B7EBD,100:667EEA&height=100&section=footer"
+    width="100%"
+  />
 </p>
