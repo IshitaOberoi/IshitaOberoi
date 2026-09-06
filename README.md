@@ -14,11 +14,11 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ishitaoberoi/">LinkedIn</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="YOUR_RESUME_URL">Resume</a>
+  <a href="https://github.com/IshitaOberoi/IshitaOberoi/blob/main/Ishita_Oberoi_Resume.pdf">Resume</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="mailto:ishitaoberoi2005@gmail.com">Email</a>
 </p>
 
 <br>
@@ -132,17 +132,15 @@ I enjoy building backend systems, full-stack applications, and practical AI-powe
 <tr>
 <td width="50%" valign="top">
 
-### Fingerprint Classification
+### Clinicly
 
-Deep learning image classification using **ResNet18 and MobileNetV2** with transfer learning.
+Full-stack healthcare platform with appointment booking, authentication, payments, and an AI-powered health assistant.
 
-**94% test accuracy**
-
-`Python` `PyTorch` `Deep Learning`
+`React` `Node.js` `MongoDB` `AI`
 
 <br>
 
-<a href="YOUR_FINGERPRINT_REPO">
+<a href="https://github.com/IshitaOberoi/clinicly">
 View Project →
 </a>
 
@@ -150,15 +148,17 @@ View Project →
 
 <td width="50%" valign="top">
 
-### Clinicly
+### Fingerprint Classification
 
-Full-stack healthcare platform with appointment management, authentication, payments, and an AI chatbot.
+Deep learning image classification using transfer learning with **ResNet18 and MobileNetV2**.
 
-`React` `Node.js` `MongoDB` `AI`
+**94% test accuracy**
+
+`Python` `PyTorch` `Deep Learning`
 
 <br>
 
-<a href="YOUR_CLINICLY_REPO">
+<a href="https://github.com/IshitaOberoi/fingerprint_classification">
 View Project →
 </a>
 
@@ -168,15 +168,15 @@ View Project →
 <tr>
 <td width="50%" valign="top">
 
-### HireSense AI
+### Smart Text Analyzer
 
-AI recruitment platform exploring **LLMs, RAG, semantic matching, skill-gap analysis, and interview preparation**.
+Java CLI application for text analysis and file comparison using word-frequency analysis, Jaccard similarity, and report generation.
 
-`React` `Spring Boot` `FastAPI` `LLM` `RAG`
+`Java` `Java 17` `OOP` `CLI`
 
 <br>
 
-<a href="YOUR_HIRESENSE_REPO">
+<a href="https://github.com/IshitaOberoi/smart-text-analyzer-java">
 View Project →
 </a>
 
@@ -184,25 +184,21 @@ View Project →
 
 <td width="50%" valign="top">
 
-### DSA
+### Audiobook Studio
 
-Solutions focused on core problem-solving patterns including **arrays, strings, sliding window, binary search, trees, graphs, and DP**.
+Streamlit-based application that transforms story scripts into structured audiobook narration with text processing, voice generation, and audio stitching.
 
-`Java` `DSA` `Problem Solving`
+`Python` `Streamlit` `LLMs` `TTS`
 
 <br>
 
-<a href="YOUR_DSA_REPO">
-View Repository →
+<a href="https://github.com/IshitaOberoi/audiobook-studio">
+View Project →
 </a>
 
 </td>
 </tr>
-</table>
-
-<br>
-
-<!-- ================= CURRENT FOCUS ================= -->
+</table><!-- ================= CURRENT FOCUS ================= -->
 
 ## Currently Exploring
 
